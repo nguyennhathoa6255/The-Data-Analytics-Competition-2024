@@ -19,8 +19,6 @@ Build a machine learning model to predict the type of user classification signal
 └── requirements.txt                  : Requirements to deploy  
 ```
 
-**File build_model.ipynb:** Data Cleaning, EDA, Build Model, Evaluate \
-**File main.py:** Deploy Streamlit: \
 Link Deploy: https://copilot-team.streamlit.app/
 
 ### **Conclusion:** 
